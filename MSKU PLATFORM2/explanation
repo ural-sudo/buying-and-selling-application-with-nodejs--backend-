@@ -1,0 +1,9 @@
+ Bir API yada herhangi bir web uygulaması yada sitesi vs. yaparken visual studio programına girdiğimiz zaman öncelikle
+ npm'i başlatmamız gerekiyor.
+ -- npm init -- command
+ Daha sonra nodejs in anlık kod okumasını ve aplikasyonu başlatması için nodemon modülünü yüklüyoruz.
+ -- npm install --save nodemon -- command
+ Daha sonra script içerisinde  kolaylık olsun diye start komunu giriyoruz json olarak.
+ -- "start":"nodemon app.js" -- command
+ Daha sonra express modülünü kullanarak serveri ayağa kaldırmamız gerekiyor. Ki express modulü çok önemli bir modüldür.
+içerisinde yine bir çok özellik ve modül barındırır.
